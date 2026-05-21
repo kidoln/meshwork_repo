@@ -10,7 +10,7 @@
     "ai-provider:F4736D0A-DD47-4132-8907-0A898E0D8BCE"
   ],
   "schema" : "discussion-topic-meta@1",
-  "status" : "open",
+  "status" : "archived",
   "tags" : [
 
   ],
@@ -23,5 +23,5 @@
     "schema" : "discussion-topic-config@2",
     "updatedAt" : "2026-05-20T04:19:01.473935127Z"
   },
-  "updatedAt" : "2026-05-20T11:58:49.730566978Z"
+  "updatedAt" : "2026-05-21T10:54:30.328310966Z"
 }
