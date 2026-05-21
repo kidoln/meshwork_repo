@@ -1,0 +1,20 @@
+{
+  "createdAt": "2026-05-20T08:00:00.000000000Z",
+  "id": "LOAD-TEST-3000-MESSAGES",
+  "linkedDocuments": [],
+  "participants": [
+    "user-local",
+    "ai-provider:load-test"
+  ],
+  "schema": "discussion-topic-meta@1",
+  "status": "open",
+  "tags": [],
+  "title": "Load Test - 3000 messages / tool-heavy samples",
+  "topicConfig": {
+    "agentConversationWindowSeconds": 120,
+    "commands": [],
+    "schema": "discussion-topic-config@2",
+    "updatedAt": "2026-05-20T08:00:00.000000000Z"
+  },
+  "updatedAt": "2026-05-20T20:29:45.000000000Z"
+}
