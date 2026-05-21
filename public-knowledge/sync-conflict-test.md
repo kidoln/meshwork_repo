@@ -1,5 +1,5 @@
 # Sync Conflict Test
 
-Local version created in /Users/kido/code/tmp/share.
+Remote version created in /Users/kido/code/tmp/share-remote-conflict-fixture.
 
-This file is intentionally used to trigger a Git add/add conflict for the Meshwork sync conflict window.
+This file intentionally differs from the local fixture so the next sync can open the conflict resolution window.
