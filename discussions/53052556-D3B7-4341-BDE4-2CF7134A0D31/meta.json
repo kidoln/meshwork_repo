@@ -1,0 +1,27 @@
+{
+  "createdAt" : "2026-05-22T12:18:33.003568172Z",
+  "id" : "53052556-D3B7-4341-BDE4-2CF7134A0D31",
+  "linkedDocuments" : [
+
+  ],
+  "participants" : [
+    "user-local",
+    "ai-provider:9C9E1EAC-8854-4C3C-934D-B2C7BE3338CC",
+    "ai-provider:F4736D0A-DD47-4132-8907-0A898E0D8BCE"
+  ],
+  "schema" : "discussion-topic-meta@1",
+  "status" : "open",
+  "tags" : [
+
+  ],
+  "title" : "新话题 2",
+  "topicConfig" : {
+    "agentConversationWindowSeconds" : 120,
+    "commands" : [
+
+    ],
+    "schema" : "discussion-topic-config@2",
+    "updatedAt" : "2026-05-22T12:18:33.003571033Z"
+  },
+  "updatedAt" : "2026-05-22T12:18:33.006829977Z"
+}
