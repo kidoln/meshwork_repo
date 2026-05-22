@@ -18,10 +18,14 @@
   "topicConfig" : {
     "agentConversationWindowSeconds" : 120,
     "commands" : [
-
+      {
+        "id" : "1217BC89-9BA6-4BCE-A89D-96AAFF4F6EF2",
+        "name" : "code",
+        "prompt" : "孙悟空999岁"
+      }
     ],
     "schema" : "discussion-topic-config@2",
-    "updatedAt" : "2026-05-21T23:48:57.209023952Z"
+    "updatedAt" : "2026-05-22T12:04:17.832893848Z"
   },
-  "updatedAt" : "2026-05-22T02:30:19.562558174Z"
+  "updatedAt" : "2026-05-22T12:04:17.837381840Z"
 }
