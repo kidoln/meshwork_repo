@@ -14,7 +14,7 @@
   "tags" : [
 
   ],
-  "title" : "新话题 4",
+  "title" : "新4",
   "topicConfig" : {
     "agentConversationWindowSeconds" : 120,
     "commands" : [
@@ -23,5 +23,5 @@
     "schema" : "discussion-topic-config@2",
     "updatedAt" : "2026-05-23T00:08:59.291798115Z"
   },
-  "updatedAt" : "2026-05-23T00:08:59.293260098Z"
+  "updatedAt" : "2026-05-23T00:09:14.683926105Z"
 }
