@@ -14,7 +14,7 @@
   "tags" : [
 
   ],
-  "title" : "新话题ddd",
+  "title" : "送命题",
   "topicConfig" : {
     "agentConversationWindowSeconds" : 120,
     "commands" : [
@@ -27,5 +27,5 @@
     "schema" : "discussion-topic-config@2",
     "updatedAt" : "2026-05-22T12:29:53.798794031Z"
   },
-  "updatedAt" : "2026-05-23T00:08:25.176725864Z"
+  "updatedAt" : "2026-05-23T00:20:47.467440128Z"
 }
