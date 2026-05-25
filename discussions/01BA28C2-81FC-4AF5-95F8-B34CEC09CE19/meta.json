@@ -6,9 +6,7 @@
   ],
   "participants" : [
     "user-local",
-    "ai-provider:9C9E1EAC-8854-4C3C-934D-B2C7BE3338CC",
-    "ai-provider:F4736D0A-DD47-4132-8907-0A898E0D8BCE",
-    "system"
+    "ai-provider:E2AF8BDB-D82A-4B21-985E-C97733F8F90A"
   ],
   "schema" : "discussion-topic-meta@2",
   "status" : "open",
@@ -22,9 +20,9 @@
     "commands" : [
 
     ],
-    "maxToolCallsPerPrompt" : 4,
+    "maxToolCallsPerPrompt" : 3,
     "schema" : "discussion-topic-config@3",
-    "updatedAt" : "2026-05-24T13:22:19.153615952Z"
+    "updatedAt" : "2026-05-25T01:47:17.159755945Z"
   },
-  "updatedAt" : "2026-05-24T13:23:23.098973989Z"
+  "updatedAt" : "2026-05-25T01:47:54.411508083Z"
 }
