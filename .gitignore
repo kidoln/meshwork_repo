@@ -1,0 +1,7 @@
+# Meshwork local-only files
+.meshwork/local.json
+.meshwork/local/
+.meshwork/cache/
+.meshwork/runtime/
+.meshwork/sessions/
+.DS_Store
