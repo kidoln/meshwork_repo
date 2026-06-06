@@ -5,3 +5,6 @@
 .meshwork/runtime/
 .meshwork/sessions/
 .DS_Store
+
+*.sqlite3-wal
+*.sqlite3-shm
