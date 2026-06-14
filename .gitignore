@@ -1,0 +1,9 @@
+# Meshwork local-only files
+.meshwork/local.json
+.meshwork/local/
+.meshwork/cache/
+*.sqlite3-wal
+*.sqlite3-shm
+.meshwork/runtime/
+.meshwork/sessions/
+.DS_Store
