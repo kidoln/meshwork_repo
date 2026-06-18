@@ -65,6 +65,8 @@ Airflow 通过 OpenLineage 提供了强大的数据血缘追踪能力：
 - 支持列级血缘追踪（针对特定操作符）
 - 从 Airflow 2.10 版本开始，自动从支持的 hooks 收集血缘
 
+> 📖 详细信息请参考：[[raw-sources/integrate-openlineage-and-airflow-astronomer-documentation.md]]
+
 ### 2.2 数据血缘的价值
 
 - **故障恢复**：通过识别上游数据集问题，加快复杂故障的恢复速度
@@ -104,6 +106,8 @@ Airflow 提供了多种 SQL 检查操作符用于数据质量验证：
 - 支持复杂多表查询
 - 最灵活的检查方式
 
+> 📖 详细信息请参考：[[raw-sources/data-quality-and-airflow-astronomer-documentation.md]]
+
 ### 3.2 第三方数据质量框架集成
 
 **Great Expectations 集成：**
@@ -131,6 +135,8 @@ Airflow 提供了多种 SQL 检查操作符用于数据质量验证：
 - 表级血缘：跨 DAG 显示上游和下游资产
 - 影响分析：评估上游和下游资产的影响
 - 事件驱动检查：数据落地时立即运行
+
+> 📖 详细信息请参考：[[raw-sources/enable-data-observability-jobs-monitoring-for-apache-airflow.md]]
 
 ## 四、指标和监控集成
 
@@ -165,6 +171,8 @@ AIRFLOW__METRICS__STATSD_PREFIX=airflow
 - 强大的可视化能力
 - 告警和通知功能
 - 可扩展的监控架构
+
+> 📖 详细信息请参考：[[raw-sources/monitoring-apache-airflow-using-prometheus.md]]
 
 ### 4.3 REST API 监控
 
@@ -228,6 +236,8 @@ def my_task():
 - SLA 告警仅对计划 DAG 有效
 - 手动触发的 DAG 不会触发 SLA 违规告警
 - 任务的 SLA 基于 DAG 开始时间计算，可能产生误报
+
+> 📖 详细信息请参考：[[raw-sources/airflow-monitoring-slas-dags-best-practices.md]]
 
 ## 六、高级可观测性功能
 
@@ -370,11 +380,14 @@ XCom（跨通信）允许任务之间交换数据：
 
 ## 参考资源
 
-- [Apache Airflow 官方文档 - Logging & Monitoring](https://airflow.apache.org/docs/apache-airflow/stable/logging-monitoring/index.html)
-- [Astronomer - Data Quality and Airflow](https://www.astronomer.io/docs/learn/data-quality)
-- [Astronomer - Integrate OpenLineage and Airflow](https://www.astronomer.io/docs/learn/airflow-openlineage)
-- [Red Hat - Monitoring Apache Airflow using Prometheus](https://www.redhat.com/en/blog/monitoring-apache-airflow-using-prometheus)
-- [Datadog - Data Observability for Apache Airflow](https://docs.datadoghq.com/data_observability/jobs_monitoring/airflow/)
+本报告基于以下参考文档整理：
+
+- [[raw-sources/airflow-apache-org.md]] - Apache Airflow 官方文档 - Logging & Monitoring
+- [[raw-sources/data-quality-and-airflow-astronomer-documentation.md]] - Astronomer - Data Quality and Airflow
+- [[raw-sources/integrate-openlineage-and-airflow-astronomer-documentation.md]] - Astronomer - Integrate OpenLineage and Airflow
+- [[raw-sources/monitoring-apache-airflow-using-prometheus.md]] - Red Hat - Monitoring Apache Airflow using Prometheus
+- [[raw-sources/enable-data-observability-jobs-monitoring-for-apache-airflow.md]] - Datadog - Data Observability for Apache Airflow
+- [[raw-sources/airflow-monitoring-slas-dags-best-practices.md]] - Astronomer - Airflow Monitoring: SLAs, DAGs, & Best Practices
 
 ---
 
