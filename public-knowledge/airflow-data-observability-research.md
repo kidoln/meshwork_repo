@@ -3,14 +3,12 @@ id: 50622B64-AE1A-419F-9C2E-A43DDACB4929
 title: airflow-data-observability-research.md
 status: draft
 created-at: 2026-06-18T07:17:37Z
-updated-at: 2026-06-18T07:18:44Z
+updated-at: 2026-06-18T07:19:48Z
 ---
 
 # Apache Airflow 数据可观测性调研报告
 
 ## 概述
-
-这是新的需
 
 Apache Airflow 作为开源工作流编排平台，在数据可观测性方面提供了丰富的原生能力和扩展选项。本报告从多个维度分析 Airflow 在数据可观测性方面的能力和特色。
 
@@ -19,6 +17,10 @@ Apache Airflow 作为开源工作流编排平台，在数据可观测性方面�
 ### 1.1 内置 Web UI 监控
 
 Airflow 提供了功能完善的 Web UI，包含多种监控视图：
+
+
+
+
 
 * **Grid View**：显示 DAG 和任务的执行状态
 * **Graph View**：可视化 DAG 的依赖关系
