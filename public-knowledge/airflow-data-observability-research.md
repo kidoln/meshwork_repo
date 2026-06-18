@@ -1,3 +1,7 @@
+---
+id: 50622B64-AE1A-419F-9C2E-A43DDACB4929
+---
+
 # Apache Airflow 数据可观测性调研报告
 
 ## 概述
