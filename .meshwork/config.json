@@ -1,1 +1,1 @@
-{"git":{"remoteURL":"git@github.com:kidoln\/meshwork_repo.git","branch":"meshwork\/shared\/test-sharespace-43433a1a"},"ai":{"updatedAt":803450081.037551,"schema":"workspace-ai-settings-config@1","commands":[],"allowsAutomaticFileEditApproval":false}}
+{"ai":{"commands":[],"updatedAt":803464604.264065,"schema":"workspace-ai-settings-config@1","allowsAutomaticFileEditApproval":true},"git":{"branch":"meshwork\/shared\/test-sharespace-43433a1a","remoteURL":"git@github.com:kidoln\/meshwork_repo.git"}}
